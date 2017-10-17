@@ -1,0 +1,9 @@
+this file
+
+will have
+
+a conflict
+
+and someone
+
+will have to fix it.
